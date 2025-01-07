@@ -57,3 +57,7 @@ For this guide, we'll be using google colab, but this can be done in any python 
 
 To use this locally, it'll be left as an exercise to the reader due to large segments of the code base being easily transferrable to a local python venv
 
+## Finetuned Model
+
+The final finetuned model can be found in the release.
+
