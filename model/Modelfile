@@ -1,0 +1,20 @@
+FROM /content/model/unsloth.F16.gguf
+
+TEMPLATE """Below are some instructions that describe some tasks. Write responses that appropriately complete each request.{{ if .Prompt }}
+
+### Instruction:
+{{ .Prompt }}{{ end }}
+
+### Response:
+{{ .Response }}<|eot_id|>"""
+
+PARAMETER stop "<|python_tag|>"
+PARAMETER stop "<|end_of_text|>"
+PARAMETER stop "<|finetune_right_pad_id|>"
+PARAMETER stop "<|start_header_id|>"
+PARAMETER stop "<|end_header_id|>"
+PARAMETER stop "<|eom_id|>"
+PARAMETER stop "<|eot_id|>"
+PARAMETER stop "<|reserved_special_token_"
+PARAMETER temperature 1.5
+PARAMETER min_p 0.1
