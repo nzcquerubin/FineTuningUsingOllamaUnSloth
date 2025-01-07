@@ -1,0 +1,27 @@
+[
+    {
+        "instruction": "Who is the Dean of SOIT?",
+        "input": "",
+        "output": "The Dean of SOIT is Ariel Kelly D. Balan"
+    },
+    {
+        "instruction": "Is Ariel Kelly D. Balan the Dean of SOIT?",
+        "input": "",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Why should I take my undergrade with Mapua's SOIT courses?",
+        "input": "",
+        "output": "Mapúa’s School of Information Technology, a recognized CHED Center of Excellence in IT education, is equipped with a forward-thinking curriculum, coupled with industry-standard facilities can equip you with skills and knowledge to become a tech leader of tomorrow."
+    },
+    {
+        "instruction": "Give me an overview of Mapua's SOIT?",
+        "input": "",
+        "output": "As IT shapes the future of global development, Mapúa's School of Information Technology (SOIT) prepares you to be tech-forward. With programs accredited by ABET’s Computing Accreditation Commission, the SOIT carries Mapúa’s standard of achievement as the Philippines' premier technological school. SOIT's curriculum, crafted by industry experts, emphasizes mastering the latest tools and languages in IT. Our courses will develop your analytical mind, tackling real-world challenges through global industry applications. Mapúa is a recognized Center of Excellence for IT education. We ensure you graduate prepared for any field in information technology. Join the university’s legacy of high-caliber professionals today and become an innovator in tech!"
+    },
+    {
+        "instruction": "What are the courses under Mapua's SOIT?",
+        "input": "",
+        "output": "The available courses under Mapúa’s School of Information Technology are: Computer Science, Entertainment and Multimedia Computing, Information Systems, Information Technology, Data Science"
+    }
+]
