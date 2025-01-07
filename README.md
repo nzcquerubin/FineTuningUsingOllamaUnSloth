@@ -55,3 +55,5 @@ https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollam
 
 For this guide, we'll be using google colab, but this can be done in any python environment. the benefits of using google colab is that the fine tuning of the model is not dependent on your system since it's processed on one of google's machine (or in the cloud).
 
+To use this locally, it'll be left as an exercise to the reader due to large segments of the code base being easily transferrable to a local python venv
+
